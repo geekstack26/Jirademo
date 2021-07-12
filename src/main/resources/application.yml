@@ -1,0 +1,7 @@
+jira:
+  secret: xSd0NQHrsANsWKvcqhksCC20
+  user-name: devstack26@gmail.com
+  base-url: https://geekstack.atlassian.net
+  ticket-url: /rest/api/2/issue
+server:
+  port: 9095
